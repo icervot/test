@@ -12,3 +12,10 @@ __bold__
 _italic_
 
 ~~strikethrough~~
+
+Quote
+> Don't be evil
+
+```
+git init
+```
