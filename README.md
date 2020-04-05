@@ -28,7 +28,7 @@ git clone
 git add
 ``
 
-[Google] (https://www.google.com/)
+[Google](https://www.google.com/)
 
 www.google.es
 
