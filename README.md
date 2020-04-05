@@ -41,8 +41,8 @@ google.org
 * GOOG
 * FB
 
-* 1. GOOG
-* 2. FB
+- 1. GOOG
+- 2. FB
 
-[] Code
-[x] Debug
+- [ ] Code
+- [x] Debug
