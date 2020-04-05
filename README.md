@@ -33,3 +33,10 @@ git add
 www.google.es
 
 google.org
+
+- MSFT
+- AAPL
+- AMZN
+
+* GOOG
+* FB
