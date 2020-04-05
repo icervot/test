@@ -24,6 +24,10 @@ git init
 git clone
 ``
 
+´´
+git add
+´´
+
 https://www.google.com/
 
 www.google.es
