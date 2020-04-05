@@ -20,6 +20,10 @@ Quote
 git init
 ```
 
+'''
+git clone
+'''
+
 https://www.google.com/
 
 www.google.es
