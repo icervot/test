@@ -11,4 +11,4 @@ __bold__
 *italic*
 _italic_
 
-~~ strikethrough ~~
+~~strikethrough~~
